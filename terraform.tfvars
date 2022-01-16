@@ -1,5 +1,5 @@
 AWS_ACCESS_KEY = "AKIAQCPRWVMCPDBLPGJI"
 AWS_SECRET_KEY = "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"
-AWS_REGION = ""
-AWS_AMI = {}
+AWS_REGION = "eu-central-1"
+AWS_AMI = {"eu-central-1" = ""}
 AWS_INSTANCE_TYPE = ""
